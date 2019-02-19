@@ -1,0 +1,3 @@
+[submodule "Digit-Recognizer"]
+	path = Digit-Recognizer
+	url = https://github.com/haoyuc1/Digit-Recognizer.git
