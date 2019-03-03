@@ -1,3 +1,6 @@
 [submodule "Digit-Recognizer"]
 	path = Digit-Recognizer
 	url = https://github.com/haoyuc1/Digit-Recognizer.git
+[submodule "CourseraML"]
+	path = CourseraML
+	url = https://github.com/haoyuc1/CourseraML.git
