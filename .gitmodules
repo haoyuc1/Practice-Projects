@@ -4,3 +4,6 @@
 [submodule "CourseraML"]
 	path = CourseraML
 	url = https://github.com/haoyuc1/CourseraML.git
+[submodule "CourseraAL"]
+	path = CourseraAL
+	url = https://github.com/haoyuc1/CourseraAL.git
